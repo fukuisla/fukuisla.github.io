@@ -1,0 +1,11 @@
+{
+	"name": "ふくいSLA Admin",
+	"start_url": "https://fukuisla.github.io/WebSiteX5/admin/",
+	"display": "standalone",
+	"background_color": "#E5E5E5",
+	"theme_color": "#F28D4F",
+	"scope": "https://fukuisla.github.io/WebSiteX5/admin/",
+	"icons": [
+		{ "src": "https://fukuisla.github.io/WebSiteX5/admin/images/logo_0s5o3p6a.png", "type": "image/png", "sizes": "126x126" }
+	]
+}
